@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello There
 
-<!--
-**Bechiscul/bechiscul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Sebastian. I am 18 years old and I have been programming since 2018.
 
-Here are some ideas to get you started:
+During the day I study at NEXT Sukkertoppen Gymnasium in Denmark.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am currently working on a game engine.
+- 🌱 I am currently learning computer graphics and linear algebra.
+
+### About Me
+
+In my spare time I enjoy:
+- &#127947; Going to the gym
+- 🍛 Cooking
+- 🎮 Gaming with my friends.
+
+### Technologies
+
+- 💻 C/C++ | Python | Rust
+- 🌐 HTML | CSS | Javascript | Typescript | React/Preact
+- 🛠 CMake | Webpack | Snowpack

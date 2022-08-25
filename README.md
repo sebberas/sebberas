@@ -17,5 +17,5 @@ In my spare time I enjoy:
 ### Technologies
 
 - 💻 C/C++ | Python | Rust
-- 🌐 HTML | CSS | Javascript | Typescript | React/Preact
-- 🛠 CMake | Webpack | Snowpack
+- 🌐 HTML | CSS | Javascript | Typescript | Solid | React/Preact
+- 🛠 CMake | Webpack | Vite

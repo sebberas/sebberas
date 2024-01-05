@@ -2,11 +2,6 @@
 
 My name is Sebastian. I am 18 years old and I have been programming since 2018.
 
-During the day I study at NEXT Sukkertoppen Gymnasium in Denmark.
-
-- 🔭 I am currently working on a game engine.
-- 🌱 I am currently learning computer graphics and linear algebra.
-
 ### About Me
 
 In my spare time I enjoy:
@@ -16,6 +11,6 @@ In my spare time I enjoy:
 
 ### Technologies
 
-- 💻 Rust | C/C++ | Python
-- 🌐 HTML | CSS | Javascript | Typescript | Solid | React/Preact
-- 🛠 CMake | Webpack | Vite
+- 💻 Rust    | C/C++   | Python     | NodeJs
+- 🌐 SolidJs | ReactJs | Typescript | HTML   | CSS
+- 🛠 CMake   | Docker
